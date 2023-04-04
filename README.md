@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--
+ Hi my name is Justin also known as the TheDog21. Im a 20 year old 
+ college kid who wants to become a programmer
 **TheDog21/TheDog21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
